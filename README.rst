@@ -1,4 +1,4 @@
-safelogging: Extentions to the standard python logging framework
+safelogging: Extensions to the standard python logging framework
 ================================================================
 
 A simple python library that adds some additional logging functionality on top
